@@ -137,3 +137,4 @@ Scripts/
 share/
 pyvenv.cfg
 FFmpeg/
+venv/
