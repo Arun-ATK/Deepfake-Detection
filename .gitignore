@@ -139,3 +139,4 @@ share/
 pyvenv.cfg
 FFmpeg/
 venv/
+.vscode/settings.json
