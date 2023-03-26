@@ -1,5 +1,7 @@
 *.mp4
 *.zip
+*.jpeg
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -139,3 +141,4 @@ share/
 pyvenv.cfg
 FFmpeg/
 venv/
+.vscode/settings.json
