@@ -142,3 +142,4 @@ pyvenv.cfg
 FFmpeg/
 venv/
 .vscode/settings.json
+models/
