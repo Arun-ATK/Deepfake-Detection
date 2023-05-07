@@ -2,9 +2,11 @@
 *.zip
 *.jpeg
 *.jpg
+*.png
 
 models/
 saved_models/
+executable/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
