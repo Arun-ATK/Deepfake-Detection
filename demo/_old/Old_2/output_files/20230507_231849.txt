@@ -1,0 +1,15 @@
+SCORE AGGREGATION
++-------------+---------------------+------------------------+----------------------+
+|  File Name  | Weighted Avg Result | Majority Voting Result | SVM Classfier Result |
++-------------+---------------------+------------------------+----------------------+
+|  ak1_f.mp4  |         Fake        |          Fake          |         Fake         |
+|  ak1_r.mp4  |         Real        |          Real          |         Real         |
+|  ak2_f.mp4  |         Fake        |          Fake          |         Fake         |
+|  ak2_r.mp4  |         Real        |          Real          |         Real         |
+| bradd_f.mp4 |         Fake        |          Fake          |         Fake         |
+| bradd_r.mp4 |         Fake        |          Fake          |         Fake         |
+|  emma_f.mp4 |         Fake        |          Fake          |         Fake         |
+|  emma_r.mp4 |         Real        |          Real          |         Real         |
+|  jen_f.mp4  |         Fake        |          Fake          |         Fake         |
+|  jen_r.mp4  |         Real        |          Real          |         Real         |
++-------------+---------------------+------------------------+----------------------+
